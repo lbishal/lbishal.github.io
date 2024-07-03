@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Bishal Lamichhane"
 description              : &description "Postdoctoral Associate"
-url                      : https://lamichhanebishal.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lbishal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lbishal/lbishal.github.io"
 
