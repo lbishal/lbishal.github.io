@@ -1,0 +1,12 @@
+---
+title: "Psychotic relapse prediction in schizophrenia patients using a personalized mobile sensing-based supervised deep learning model"
+collection: publications
+permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: 'We developed RelapsePredNet, a deep learning model to automatically predict psychotic relapses using smartphone data.'
+date: 2023-04-10
+venue: 'IEEE Journal of Biomedical and Health Informatics'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10097848'
+citation: 'Lamichhane, Bishal, Joanne Zhou, and Akane Sano. "Psychotic relapse prediction in schizophrenia patients using a personalized mobile sensing-based supervised deep learning model." IEEE Journal of Biomedical and Health Informatics 27, no. 7 (2023): 3246-3257.'
+---
+
+Mobile sensing-based modeling of behavioral changes could predict an oncoming psychotic relapse in schizophrenia patients for timely interventions. Deep learning models could complement existing non-deep learning models for relapse prediction by modeling the latent behavioral features relevant to prediction. However, given the inter-individual behavioral differences, model personalization might be required. In this work, we propose RelapsePredNet, a Long Short-Term Memory (LSTM) neural network-based model for relapse prediction. The model is personalized for a particular patient by using data from patients most similar to the given patient based on their demographics or baseline mental health scores. RelapsePredNet was compared with a deep learning-based anomaly detection model for relapse prediction. Additionally, we investigated if RelapsePredNet could complement ClusterRFModel (a random forest model leveraging clustering and template features proposed in prior work) in a fusion model. The CrossCheck dataset consisting of continuous mobile sensing data obtained from 63 schizophrenia patients, each monitored for up to a year, was used for our evaluations. RelapsePredNet outperformed the deep learning-based anomaly detection for relapse prediction with an F2 score of 0.21 and 0.52 in the full test set and the Relapse Test Set (consisting of data from patients who have had relapse only), respectively, representing a 29.4% and 38.8% improvement. Patients' social functioning scale (SFS) score was found to be the best personalization metric to define patient similarity. RelapsePredNet complemented the ClusterRFModel as it improved the F2 score by 26.1% with a fusion model, resulting in an F2 score of 0.30 in the full test set.

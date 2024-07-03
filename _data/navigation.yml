@@ -2,4 +2,11 @@
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Awards"
+    url: /awards/
+
   
