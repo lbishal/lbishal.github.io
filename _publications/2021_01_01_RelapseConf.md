@@ -1,0 +1,12 @@
+---
+title: "Patient-independent schizophrenia relapse prediction using mobile sensor based daily behavioral rhythm changes"
+collection: publications
+permalink: /publication/2021_01_01_RelapseConf
+excerpt: 'We provide a first demonstration of patient-independent psychotic relapse prediction performance using mobile sensing data with behavioral templates.'
+date: 2021-01-01
+venue: 'MobiHealth 2020'
+paperurl: 'https://arxiv.org/pdf/2106.15353'
+citation: 'Lamichhane, B., Ben-Zeev, D., Campbell, A., Choudhury, T., Hauser, M., Kane, J., ... & Sano, A. (2021). Patient-independent schizophrenia relapse prediction using mobile sensor based daily behavioral rhythm changes. In Wireless Mobile Communication and Healthcare: 9th EAI International Conference, MobiHealth 2020, Virtual Event, November 19, 2020, Proceedings 9 (pp. 18-33). Springer International Publishing.'
+---
+
+A schizophrenia relapse has severe consequences for a patient’s health, work, and sometimes even life safety. If an oncoming relapse can be predicted on time, for example by detecting early behavioral changes in patients, then interventions could be provided to prevent the relapse. In this work, we investigated a machine learning based schizophrenia relapse prediction model using mobile sensing data to characterize behavioral features. A patient-independent model providing sequential predictions, closely representing the clinical deployment scenario for relapse prediction, was evaluated. The model uses the mobile sensing data from the recent four weeks to predict an oncoming relapse in the next week. We used the behavioral rhythm features extracted from daily templates of mobile sensing data, self-reported symptoms collected via EMA (Ecological Momentary Assessment), and demographics to compare different classifiers for the relapse prediction. Naive Bayes based model gave the best results with an F2 score of 0.083 when evaluated in a dataset consisting of 63 schizophrenia patients, each monitored for up to a year. The obtained F2 score, though low, is better than the baseline performance of random classification (F2 score of 0.02 ± 0.024). Thus, mobile sensing has predictive value for detecting an oncoming relapse and needs further investigation to improve the current performance. Towards that end, further feature engineering and model personalization based on the behavioral idiosyncrasies of a patient could be helpful.
