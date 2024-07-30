@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021_01_01_RelapseConf
 excerpt: 'We provide a first demonstration of patient-independent psychotic relapse prediction performance using mobile sensing data with behavioral templates.'
 date: 2021-01-01
-venue: 'MobiHealth 2020'
+venue: 'MobiHealth'
 paperurl: 'https://arxiv.org/pdf/2106.15353'
 citation: 'Lamichhane, B., Ben-Zeev, D., Campbell, A., Choudhury, T., Hauser, M., Kane, J., ... & Sano, A. (2021). Patient-independent schizophrenia relapse prediction using mobile sensor based daily behavioral rhythm changes. In Wireless Mobile Communication and Healthcare: 9th EAI International Conference, MobiHealth 2020, Virtual Event, November 19, 2020, Proceedings 9 (pp. 18-33). Springer International Publishing.'
 ---
