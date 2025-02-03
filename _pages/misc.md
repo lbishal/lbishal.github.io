@@ -1,6 +1,6 @@
 ---
 permalink: /misc/
-title: "Academic Services, Misc"
+title: 
 author_profile: true
 redirect_from: 
   - /misc.html
