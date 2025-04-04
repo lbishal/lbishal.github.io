@@ -8,10 +8,10 @@ redirect_from:
 
 ## Academic Services 
 
-* Organizing committee: [BHI 2024](https://bhi.embs.org/2024), [ICML CA2MH workshop](https://sites.google.com/view/ca2mh/)
+* Organizing committee: [BHI 2025](https://bhi.embs.org/2025),[BHI 2024](https://bhi.embs.org/2024), [ICML CA2MH workshop](https://sites.google.com/view/ca2mh/)
 * Guest Academic Editor, [PLOS Digital Health](https://journals.plos.org/digitalhealth/)
 * Topic Coordinator: Frontier's [Machine Learning Algorithms and Software Tools for Early Detection and Prognosis of Schizophrenia](https://www.frontiersin.org/research-topics/67505/machine-learning-algorithms-and-software-tools-for-early-detection-and-prognosis-of-schizophrenia) - Please contribute if this falls into your research area
-* Reviewer for <em> npj Mental Health Research, npj Digital Medicine, IEEE TPAMI, IEEE JBHI, IEEE Transactions on Consumer Electronics, Chest, JMIR, JAIHC, IMWUT, PLOS one, PLOS Digital Health, Scientific Reports, Sensors, Behavioral and Information Technology, Discover Applied Sciences, CA2MH, BHI, ISWC </em>
+* Reviewer for <em> npj Mental Health Research, npj Digital Medicine, IEEE TPAMI, IEEE JBHI, IEEE Transactions on Consumer Electronics, Chest, JMIR, JAIHC, IMWUT, PLOS one, PLOS Digital Health, Scientific Reports, Sensors, Behavioral and Information Technology, Discover Applied Sciences, CA2MH, BHI, ISWC, ICASSP, IJCNN </em>
 
 ## Patents (Five Granted, and Two Pending)
 
