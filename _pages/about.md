@@ -34,7 +34,7 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 
   <tr><td><b> Nov 2024: </b> </td><td>BHI 2024 was a great success. Served in organizing committee, chaired poster presentation sessions, judged posters, reviewed papers, and authored a paper. Thanks to everyone helping organize it. </td></tr>
 
-   <tr><td><b>  Oct 2024: </b> </td><td>Patent granted on detecting cuff quality using signal processing and machine learning. [Details](https://patents.google.com/patent/EP3870033A1/en?inventor=Bishal+Lamichhane)</td></tr>
+   <tr><td><b>  Oct 2024: </b> </td><td>Patent granted on detecting cuff quality using signal processing and machine learning. [Details](https://patents.google.com/patent/EP3870033A1/en)</td></tr>
 
   <tr><td><b>  Aug 2024: </b> </td><td>Our work on combining audio and mobile sensing for depression severity modeling is published in scientific reports. </td></tr>
 
