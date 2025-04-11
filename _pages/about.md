@@ -13,6 +13,14 @@ My primary academic interests lie in machine learning and data science applicati
 
 In the past, I have worked as a research scientist at the [Philps Research](https://www.philips.com/a-w/about/innovation.html) and [IMEC-Holst Center](https://holstcentre.com/). I worked on several projects related to patient monitoring, developing novel measurement techniques and approaches for blood pressure monitoring, computer vision-based patient activity monitoring and diagnosis, wearable systems for early warning indicators of health degradation, novel patient monitoring architectures to support data-driven innovations, the development of cloud computing platform (streaming, storage, and computation) to support the ranges of internal research and advance developments. I also spent an extended summer at [Samsung Research America](https://sra.samsung.com/) as a research intern. There, I worked to develop earbuds-based health applications.
 
+### Announcements
+
+<div style="background-color: #d1ecf1; color: #0c5460; padding: 10px; border-left: 6px solid #bee5eb; margin: 10px 0;">
+  ℹ️ **Submission Open:** IEEE BHI 2025 call for papers, workshops, and special session is out. Contribute and join the conference in Georgia. <a href="https://bhi.embs.org/2025/">Conference Page</a> </td></tr><br>
+  ℹ️ **Accepting Submission:** We are organizing a research topic on "Machine Learning Algorithms and Software Tools for Early Detection and Prognosis of Schizophrenia". We are currently accepting new contributions in this area. <a href="https://www.frontiersin.org/research-topics/67505/machine-learning-algorithms-and-software-tools-for-early-detection-and-prognosis-of-schizophrenia">Research Topic Page.</a> </td></tr>
+
+</div>
+
 
 ### Updates
 
