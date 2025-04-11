@@ -16,79 +16,86 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 
 ### Updates
 
-<div style="height:400px;overflow:auto; border:1px solid #999; padding-left: 1.0em; padding-right: 1.0em">
+<div style="height:400px;overflow:auto; border:0px solid #999; padding-left: 1.0em; padding-right: 1.0em">
+  <style>
+    table, tr, td, th {
+      border: none;
+      border-collapse: collapse;
+    }
+  </style>
 <table>
 <col width="150px">
 <col width="750px">
 
 
-  <tr><td><b> April 2025: </b> </td><td>The deadline to submit paper for our research topic "Machine Learning Algorithms and Software Tools for Early Detection and Prognosis of Schizophrenia" in Frontiers in Computational Neuroscience is approaching. Please contribute if this falls within your research area. Details <a href="https://www.frontiersin.org/research-topics/67505/machine-learning-algorithms-and-software-tools-for-early-detection-and-prognosis-of-schizophrenia">here</a> </td></tr>
+  <tr><td><b> April 2025: </b> </td><td>The deadline to submit paper for our research topic "Machine Learning Algorithms and Software Tools for Early Detection and Prognosis of Schizophrenia" in Frontiers in Computational Neuroscience is approaching. Please contribute if this falls within your research area. Details <a href="https://www.frontiersin.org/research-topics/67505/machine-learning-algorithms-and-software-tools-for-early-detection-and-prognosis-of-schizophrenia">here</a> </td></tr>.
 
   <tr><td><b> March 2025: </b> </td><td>Always exciting to kick off new studies. First participant in for a new study. Stay tuned! </td></tr>
 
-  <tr><td><b>Feb 2025: </b> </td><td>Our objective impulsivity assessment paper is published in NPP - Digital Psychiatry and Neuroscience <a href="https://www.nature.com/articles/s44277-025-00026-z">Paper</a>. </td></tr>
+  <tr><td><b>Feb 2025: </b> </td><td>Our objective impulsivity assessment paper is published in NPP - Digital Psychiatry and Neuroscience. <a href="https://www.nature.com/articles/s44277-025-00026-z">Paper.</a> </td></tr>
 
   <tr><td><b> Dec 2024: </b> </td><td>Got my first seed fund grant awarded from an NSF ERC. Many thanks to the awesome collaborators and mentors.</td></tr>
 
-  <tr><td><b>  Nov 2024: </b> </td><td>US and European patent granted on generating improved skeleton model by combining physiology and computer vision.</td></tr>
+  <tr><td><b>  Nov 2024: </b> </td><td>US and European patent granted on generating improved skeleton model by combining physiology and computer vision. </td></tr> <a href="https://patents.google.com/patent/US12150753B2">Details.</a> </td></tr>
 
   <tr><td><b> Nov 2024: </b> </td><td>BHI 2024 was a great success. Served in organizing committee, chaired poster presentation sessions, judged posters, reviewed papers, and authored a paper. Thanks to everyone helping organize it. </td></tr>
 
-   <tr><td><b>  Oct 2024: </b> </td><td>Patent granted on detecting cuff quality using signal processing and machine learning. <a href="https://patents.google.com/patent/EP3870033A1/en">Details</a> </td></tr>
+   <tr><td><b>  Oct 2024: </b> </td><td>Patent granted on detecting cuff quality using signal processing and machine learning. <a href="https://patents.google.com/patent/EP3870033A1/en">Details.</a> </td></tr>
 
-  <tr><td><b>  Aug 2024: </b> </td><td>Our work on combining audio and mobile sensing for depression severity modeling is published in scientific reports. </td></tr>
+  <tr><td><b>  Aug 2024: </b> </td><td>Our work on combining audio and mobile sensing for depression severity modeling is published in scientific reports. <a href="https://www.nature.com/articles/s41598-024-69739-z">Paper.</a> </td></tr>
 
   <tr><td><b> Aug 2024: </b> </td><td>Submitted my first R01. More to come. </td></tr>
 
-  <tr><td><b>  June 2024: </b> </td><td>Inducted as the Future Faculty Fellow! Excited.</td></tr>
+  <tr><td><b>  June 2024: </b> </td><td>Inducted as the Future Faculty Fellow! Excited. </td></tr>
 
   <tr><td><b>  May 2024: </b> </td><td>Officially a PhD! </td></tr>
 
+  <tr><td><b>  Aug 2023: </b> </td><td>Our work on suicidality detection based on impulsivity measures is published in Behavioral Neurology. <a href="https://onlinelibrary.wiley.com/doi/full/10.1155/2023/8552180">Paper.</a> </td></tr>
 
-  <tr><td><b>  Aug 2023: </b> </td><td>Our work on suicidality detection based on impulsivity measures is published in Behavioral Neurology. </td></tr>
-
-  <tr><td><b> May 2023: </b> </td><td>Delivered a talk on our unsupervised wireless diarization paper at the ICC 2023 conference. Our paper got the best paper award. </td></tr>
-
-
-  <tr><td><b> April 2023: </b> </td><td>Our JBHI journal paper on psychotic relapse prediction paper is published. </td></tr>
+  <tr><td><b> May 2023: </b> </td><td>Delivered a talk on our unsupervised wireless diarization paper at the ICC 2023 conference. Our paper got the best paper award. <a href="https://shorturl.at/329aK">News item.</a>  </td></tr>
 
 
-  <tr><td><b>  March 2023: </b> </td><td>LLMs are here to stay for mental health applications. Published an interesting find in preprint that chatgpt has zero-shot mental health detection capabilities.</td></tr>
+  <tr><td><b> April 2023: </b> </td><td>Our JBHI journal paper on psychotic relapse prediction paper is published. <a href="https://ieeexplore.ieee.org/abstract/document/10097848">Paper.</a> </td></tr>
+
+<tr><td><b>  March 2023: </b> </td><td>Delivered an invited Grand Round talk at Baylor College of Medicine. <a href="https://clinicianresources.bcm.edu/learning/menninger-department-of-psychiatry-and-behavioral-sciences-grand-rounds/030823/">Presentation.</a> </td></tr>
 
 
-  <tr><td><b> Sep 2022: </b> </td><td>My paper on IMU-based cough detection is presented at BHI 2022. </td></tr>
+  <tr><td><b>  March 2023: </b> </td><td>LLMs are here to stay for mental health applications. Published an interesting find in preprint that chatgpt has zero-shot mental health detection capabilities. <a href="https://arxiv.org/abs/2303.15727">Paper.</a> </td></tr>
+
+
+  <tr><td><b> Sep 2022: </b> </td><td>My paper on IMU-based cough detection is presented at BHI 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9926839">Paper.</a></td></tr>
 
 
   <tr><td><b> August 2022: </b> </td><td>Starting a new user study on activity of daily living detection. Happy to contribute to this awesome SRA digital health team. </td></tr>
 
   <tr><td><b> May 2022: </b> </td><td>Excited to be working at the Samsung Research America's Digital Health team. Earbuds data for novel health applications. </td></tr>
 
-  <tr><td><b> May 2022: </b> </td><td>Finished our preprint on technology-based healthcare in low-resource regions. Great collaboration with Navaraj.</td></tr>
+  <tr><td><b> May 2022: </b> </td><td>Finished our preprint on technology-based healthcare in low-resource regions. Great collaboration with Navaraj.<a href="https://arxiv.org/abs/2205.10913">Paper.</a> </td></tr>
 
 
-  <tr><td><b> April 2022: </b> </td><td>Our behavioral data clustering paper for schizophrenia relapse detection is published in JMIR mHealth and uHealth. </td></tr>
+  <tr><td><b> April 2022: </b> </td><td>Our behavioral data clustering paper for schizophrenia relapse detection is published in JMIR mHealth and uHealth.<a href="https://mhealth.jmir.org/2022/4/e31006">Paper.</a> </td></tr>
+
+   <tr><td><b> Sep 2021: </b> </td><td>Gave an invited talk on "AI for Health: An Academic and Industrial Perspective" at the NWMLDS02021.<a href="https://www.mldsnnepal.org/news-and-events/events/nwmlds-2021">Program.</a> </td></tr>
 
 
-  <tr><td><b> March 2021: </b> </td><td>1st place winner at the 4th SBMI hackathon. <a href="https://sbmi.uth.edu/news/story.htm?id=2980dfd7-fda8-46d7-b456-27ca1362f52d">Details</a> </td></tr>
+  <tr><td><b> March 2021: </b> </td><td>1st place winner at the 4th SBMI hackathon. <a href="https://sbmi.uth.edu/news/story.htm?id=2980dfd7-fda8-46d7-b456-27ca1362f52d">Details.</a> </td></tr>
 
   <tr><td><b> Sep 2022: </b> </td><td>Great Interspeech conference in S. Korea. Delivered a short talk on my dyadic interaction detection work, and presented a poster. Great to meet other speech in health fellows. </td></tr>
 
 
-  <tr><td><b> June 2022: </b> </td><td>US patent on computer-vision modeling to detect body movement of patient granted!</td></tr>
+  <tr><td><b> June 2022: </b> </td><td>US patent on computer-vision modeling to detect body movement of patient granted! <a href="https://patents.google.com/patent/US11354809B2">Details.</a> </td></tr>
 
-  <tr><td><b> April 2022: </b> </td><td>Our work on speech-based sociability estimation for depression severity/mental health measures estimation is published. Years in making! </td></tr>
+  <tr><td><b> April 2022: </b> </td><td>Our work on speech-based sociability estimation for depression severity/mental health measures estimation is published. Years in making! <a href="https://ieeexplore.ieee.org/abstract/document/9751219">Paper here.</a></td></tr>
 
   <tr><td><b> Dec 2021: </b> </td><td>Awarded the Ken-Kennedy Fellowship. </td></tr>
 
-  <tr><td><b> Nov 2021: </b> </td><td>European patent on personalized stress detection granted. </td></tr>
+  <tr><td><b> Nov 2021: </b> </td><td>European patent on personalized stress detection granted. <a href="https://patents.google.com/patent/EP3238611B1">Details.</a> </td></tr>
 
-  <tr><td><b> Dec 2020: </b> </td><td>The SUDEP risk detection paper based on the hackathon work at SBMI/UTHealth is published at BMC Medical Informatics and Decision Making. </td></tr>
+  <tr><td><b> Dec 2020: </b> </td><td>The SUDEP risk detection paper based on the hackathon work at SBMI/UTHealth is published at BMC Medical Informatics and Decision Making. <a href="https://link.springer.com/article/10.1186/s12911-020-01307-7">Details.</a> </td></tr>
 
   <tr><td><b> Nov 2020: </b> </td><td>Delivered a talk at MobiHealth 2020 on our schizophrenia relapse detection work. </td></tr>
 
-
   <tr><td><b> Sep 2020: </b> </td><td>Filed a US patent on using similarity preserving hashing for medical search.  </td></tr>
-
 
 <tr><td><b> Feb 2020: </b> </td><td>3rd place winner at the 2nd SBMI hackathon. <a href="https://sbmi.uth.edu/datathon/past-events/feb20.htm">Details </a> </td></tr>
 
