@@ -21,7 +21,6 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 <col width="100px">
 <col width="650px">
 
-  <tr><td><b>  </td></tr>
 
   <tr><td><b> April 2025: The deadline to submit paper for our research topic "Machine Learning Algorithms and Software Tools for Early Detection and Prognosis of Schizophrenia" in Frontiers in Computational Neuroscience is approaching. Please contribute if this falls within your research area. Details [here](https://www.frontiersin.org/research-topics/67505/machine-learning-algorithms-and-software-tools-for-early-detection-and-prognosis-of-schizophrenia) </td></tr>
 
