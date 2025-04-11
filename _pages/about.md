@@ -27,8 +27,9 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 <col width="150px">
 <col width="750px">
 
+  <tr><td><b> April 2025: </b> </td><td> IEEE EMBS BHI 2025's call for papers is out. Submit your research and attend the leading technical conference on biomedical and health informatics. <a href="https://bhi.embs.org/2025/">Conference Page</a> </td></tr>
 
-  <tr><td><b> April 2025: </b> </td><td>The deadline to submit paper for our research topic "Machine Learning Algorithms and Software Tools for Early Detection and Prognosis of Schizophrenia" in Frontiers in Computational Neuroscience is approaching. Please contribute if this falls within your research area. Details <a href="https://www.frontiersin.org/research-topics/67505/machine-learning-algorithms-and-software-tools-for-early-detection-and-prognosis-of-schizophrenia">here</a> </td></tr>.
+  <tr><td><b> April 2025: </b> </td><td>The deadline to submit paper for our research topic "Machine Learning Algorithms and Software Tools for Early Detection and Prognosis of Schizophrenia" in Frontiers in Computational Neuroscience is approaching. Please contribute if this falls within your research area. Details <a href="https://www.frontiersin.org/research-topics/67505/machine-learning-algorithms-and-software-tools-for-early-detection-and-prognosis-of-schizophrenia">here</a> </td></tr>
 
   <tr><td><b> March 2025: </b> </td><td>Always exciting to kick off new studies. First participant in for a new study. Stay tuned! </td></tr>
 
@@ -40,7 +41,13 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 
   <tr><td><b> Nov 2024: </b> </td><td>BHI 2024 was a great success. Served in organizing committee, chaired poster presentation sessions, judged posters, reviewed papers, and authored a paper. Thanks to everyone helping organize it. </td></tr>
 
+  <tr><td><b> Nov 2024: </b> </td><td>Gave an invited talk at SVNIT.</td></tr>
+
    <tr><td><b>  Oct 2024: </b> </td><td>Patent granted on detecting cuff quality using signal processing and machine learning. <a href="https://patents.google.com/patent/EP3870033A1/en">Details.</a> </td></tr>
+
+  <tr><td><b>  Oct 2024: </b> </td><td> Joined the editorial board of PLOS Digital Health. </td></tr>
+
+  <tr><td><b>  Sep 2024: </b> </td><td> Appointed as adjunct assistant professor at Baylor College of Medicine. </td></tr>
 
   <tr><td><b>  Aug 2024: </b> </td><td>Our work on combining audio and mobile sensing for depression severity modeling is published in scientific reports. <a href="https://www.nature.com/articles/s41598-024-69739-z">Paper.</a> </td></tr>
 
@@ -91,13 +98,15 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 
   <tr><td><b> Nov 2021: </b> </td><td>European patent on personalized stress detection granted. <a href="https://patents.google.com/patent/EP3238611B1">Details.</a> </td></tr>
 
+  <tr><td><b> July 2021: </b> </td><td>Helped organized the CA2MH workshop at ICML 2021. <a href="https://sites.google.com/view/ca2mh/about">Details.</a> </td></tr>
+
   <tr><td><b> Dec 2020: </b> </td><td>The SUDEP risk detection paper based on the hackathon work at SBMI/UTHealth is published at BMC Medical Informatics and Decision Making. <a href="https://link.springer.com/article/10.1186/s12911-020-01307-7">Details.</a> </td></tr>
 
   <tr><td><b> Nov 2020: </b> </td><td>Delivered a talk at MobiHealth 2020 on our schizophrenia relapse detection work. </td></tr>
 
   <tr><td><b> Sep 2020: </b> </td><td>Filed a US patent on using similarity preserving hashing for medical search.  </td></tr>
 
-<tr><td><b> Feb 2020: </b> </td><td>3rd place winner at the 2nd SBMI hackathon. <a href="https://sbmi.uth.edu/datathon/past-events/feb20.htm">Details </a> </td></tr>
+<tr><td><b> Feb 2020: </b> </td><td>3rd place winner at the 2nd SBMI hackathon. <a href="https://sbmi.uth.edu/datathon/past-events/feb20.htm">Details, </a> </td></tr>
 
 <tr><td><b> Jan 2020: </b> </td><td>Joined scalable health labs as a digital health warrior! Exciting research oncoming. Stay tuned. </td></tr>
 
@@ -105,10 +114,10 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 
 <tr><td><b>  Oct 2019: </b> </td><td>Patent on smart scheduling of blood pressure measurement filed.</td></tr>
 
- <tr><td><b> Sep 2019: </b> </td><td>Winner of the 1st UT Health SBMI Hackathon. Overall 2nd, 1st for qualified participants. <a href="https://sbmi.uth.edu/hackathon/archive/sept19.htm"> Details </a></td></tr>
+ <tr><td><b> Sep 2019: </b> </td><td>Winner of the 1st UT Health SBMI Hackathon. Overall 2nd, 1st for qualified participants. <a href="https://sbmi.uth.edu/hackathon/archive/sept19.htm"> Details. </a></td></tr>
 
 
-  <tr><td><b> Sep 2019: </b> </td><td>Winner of the 1st UT Health SBMI Hackathon. Overall 2nd, 1st for qualified participants. <a href="https://sbmi.uth.edu/hackathon/archive/sept19.htm">Details</a></td></tr>
+  <tr><td><b> Sep 2019: </b> </td><td>Winner of the 1st UT Health SBMI Hackathon. Overall 2nd, 1st for qualified participants. <a href="https://sbmi.uth.edu/hackathon/archive/sept19.htm">Details.</a></td></tr>
 
   <tr><td><b>  Sep 2019: </b> </td><td>Patent filed on generating improved skeleton model by combining physiology and computer vision.</td></tr>
 
@@ -129,7 +138,7 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 
   <tr><td><b>  </b> </td><td>Organized Data Science Hands-on for the Philips Research team at the offsite. The attendees included some of the inventors of CD (such a previlege). </td></tr>
 
-  <tr><td><b> </b> </td><td>Delivered an invited lecture at <a href="https://www.jads.nl/">JADS</a> on 'Machine learning applications in healthcare' </td></tr>
+  <tr><td><b> </b> </td><td>Delivered an invited lecture at <a href="https://www.jads.nl/">JADS</a> on 'Machine learning applications in healthcare'. </td></tr>
 
   <tr><td><b> </b> </td><td>Won the Eindhoven Machine Learning Hackathon this time. </td></tr>
 
@@ -147,12 +156,11 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 
   <tr><td><b>  </b> </td><td>Our paper on comparing stress detection models received best student paper award at the EAI Mindcare conference. </td></tr>
 
-
   <tr><td><b>  </b> </td><td>The cloud data science platform development that I led, leading to the IMEC-Aurora product, was one of the highlighted features in the IMEC Technology Forum! Wohooo. </td></tr>
 
   <tr><td><b> </b> </td><td>Delivered an invited talk on "Machine Learning: Algorithms, Applications and Scalable deployment" for the Eindhoven Developer Community. </td></tr>
 
-  <tr><td><b> </b> </td><td>Builiding cool wearable health solutions at Holst Center/IMEC </td></tr>
+  <tr><td><b> </b> </td><td>Builiding cool wearable health solutions at Holst Center/IMEC. </td></tr>
 
   <tr><td><b> </b> </td><td>My research at Eindhoven University of Technology and Philips Research was awarded the *cum laude* distinction.</td></tr>
 
