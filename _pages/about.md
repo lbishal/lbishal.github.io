@@ -36,7 +36,7 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 
   <tr><td><b> Dec 2024: </b> </td><td>Got my first seed fund grant awarded from an NSF ERC. Many thanks to the awesome collaborators and mentors.</td></tr>
 
-  <tr><td><b>  Nov 2024: </b> </td><td>US and European patent granted on generating improved skeleton model by combining physiology and computer vision. </td></tr> <a href="https://patents.google.com/patent/US12150753B2">Details.</a> </td></tr>
+  <tr><td><b>  Nov 2024: </b> </td><td>US and European patent granted on generating improved skeleton model by combining physiology and computer vision. <a href="https://patents.google.com/patent/US12150753B2">Details.</a> </td></tr>
 
   <tr><td><b> Nov 2024: </b> </td><td>BHI 2024 was a great success. Served in organizing committee, chaired poster presentation sessions, judged posters, reviewed papers, and authored a paper. Thanks to everyone helping organize it. </td></tr>
 
@@ -117,44 +117,44 @@ In the past, I have worked as a research scientist at the [Philps Research](http
   <tr><td><b> Feb 2019: </b> </td><td>CNN-Skelpose paper is published in JAIHC! Great collaboration with Luis, Lu, and Gerard. </td></tr>
 
 
-  <tr><td><b> Dec 2018: </b> </td><td>Our preprint on blockchain for healthcare is released. An effort of so many months but a timely publication for the topic. </td></tr>
+  <tr><td><b> Older Updates: </b> </td><td>Our preprint on blockchain for healthcare is released. An effort of so many months but a timely publication for the topic. </td></tr>
 
 
-  <tr><td><b> Nov 2018: </b> </td><td>Filed a patent on computer-vision for patient motion detection. This started with a whiteboarding from a real application problem. Exciting! </td></tr>
+  <tr><td><b> </b> </td><td>Filed a patent on computer-vision for patient motion detection. This started with a whiteboarding from a real application problem. Exciting! </td></tr>
 
 
 
-  <tr><td><b> Sep 2018: </b> </td><td>Filed a patent on novel cuff embodiments to enable blood pressure measurement across different body sizes. </td></tr>
+  <tr><td><b>  </b> </td><td>Filed a patent on novel cuff embodiments to enable blood pressure measurement across different body sizes. </td></tr>
 
 
-  <tr><td><b> June 2018: </b> </td><td>Organized Data Science Hands-on for the Philips Research team at the offsite. The attendees included some of the inventors of CD (such a previlege). </td></tr>
+  <tr><td><b>  </b> </td><td>Organized Data Science Hands-on for the Philips Research team at the offsite. The attendees included some of the inventors of CD (such a previlege). </td></tr>
 
-  <tr><td><b> Nov 2017: </b> </td><td>Delivered an invited lecture at <a href="https://www.jads.nl/">JADS</a> on 'Machine learning applications in healthcare' </td></tr>
+  <tr><td><b> </b> </td><td>Delivered an invited lecture at <a href="https://www.jads.nl/">JADS</a> on 'Machine learning applications in healthcare' </td></tr>
 
-  <tr><td><b> May 2017: </b> </td><td>Won the Eindhoven Machine Learning Hackathon this time. </td></tr>
+  <tr><td><b> </b> </td><td>Won the Eindhoven Machine Learning Hackathon this time. </td></tr>
 
-  <tr><td><b> May 2017: </b> </td><td>Delivered an invited lecture at [<a href="https://www.jads.nl/">JADS</a> on 'Quantified Self' </td></tr>
+  <tr><td><b> </b> </td><td>Delivered an invited lecture at [<a href="https://www.jads.nl/">JADS</a> on 'Quantified Self' </td></tr>
 
-  <tr><td><b> Dec 2016: </b> </td><td>Developed one of the best computer-vision-based bed detector algorithm. Stay tuned for smart ICUs. </td></tr>
+  <tr><td><b> </b> </td><td>Developed one of the best computer-vision-based bed detector algorithm. Stay tuned for smart ICUs. </td></tr>
 
-  <tr><td><b> July 2016: </b> </td><td>Technical lead for novel blood pressure monitoring algorithm for the value segment business. </td></tr>
+  <tr><td><b> </b> </td><td>Technical lead for novel blood pressure monitoring algorithm for the value segment business. </td></tr>
 
-  <tr><td><b> July 2016: </b> </td><td>Joining to revolutionize health care through improved patient care and measurement at Philips Research. Surreal!</td></tr>
+  <tr><td><b>  </b> </td><td>Joining to revolutionize health care through improved patient care and measurement at Philips Research. Surreal!</td></tr>
 
-  <tr><td><b> June 2016: </b> </td><td>Presented my paper on Stress Response Factor (SRF) at the HEALTHWEAR 2016 - EAI International Conference on Wearables in Healthcare (Thanks Giusi!). </td></tr>
+  <tr><td><b> </b> </td><td>Presented my paper on Stress Response Factor (SRF) at the HEALTHWEAR 2016 - EAI International Conference on Wearables in Healthcare (Thanks Giusi!). </td></tr>
 
-  <tr><td><b> April 2016: </b> </td><td>My first patent filing. Found a novel way to personalize stress detection. </td></tr>
+  <tr><td><b>  </b> </td><td>My first patent filing. Found a novel way to personalize stress detection. </td></tr>
 
-  <tr><td><b> Sep 2015: </b> </td><td>Our paper on comparing stress detection models received best student paper award at the EAI Mindcare conference. </td></tr>
+  <tr><td><b>  </b> </td><td>Our paper on comparing stress detection models received best student paper award at the EAI Mindcare conference. </td></tr>
 
 
-  <tr><td><b> June 2015: </b> </td><td>The cloud data science platform development that I led, leading to the IMEC-Aurora product, was one of the highlighted features in the IMEC Technology Forum! Wohooo. </td></tr>
+  <tr><td><b>  </b> </td><td>The cloud data science platform development that I led, leading to the IMEC-Aurora product, was one of the highlighted features in the IMEC Technology Forum! Wohooo. </td></tr>
 
-  <tr><td><b> April 2015: </b> </td><td>Delivered an invited talk on "Machine Learning: Algorithms, Applications and Scalable deployment" for the Eindhoven Developer Community. </td></tr>
+  <tr><td><b> </b> </td><td>Delivered an invited talk on "Machine Learning: Algorithms, Applications and Scalable deployment" for the Eindhoven Developer Community. </td></tr>
 
-  <tr><td><b> Dec 2014: </b> </td><td>Builiding cool wearable health solutions at Holst Center/IMEC </td></tr>
+  <tr><td><b> </b> </td><td>Builiding cool wearable health solutions at Holst Center/IMEC </td></tr>
 
-  <tr><td><b> Sept 2014: </b> </td><td>My research at Eindhoven University of Technology and Philips Research was awarded the *cum laude* distinction.</td></tr>
+  <tr><td><b> </b> </td><td>My research at Eindhoven University of Technology and Philips Research was awarded the *cum laude* distinction.</td></tr>
 
 
 
