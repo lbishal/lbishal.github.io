@@ -35,6 +35,10 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 <col width="150px">
 <col width="750px">
 
+  <tr><td><b> May 2025: </b> </td><td> Research on emotional response to affective haptic cues accepted for the for the World Haptics Conference 2025.
+
+  <tr><td><b> May 2025: </b> </td><td> Our research on social network characteristics in substance use disorder presented at the Harris Health/Baylor College of Medicine Research Day.
+
   <tr><td><b> April 2025: </b> </td><td> IEEE EMBS BHI 2025's call for papers is out. Submit your research and attend the leading technical conference on biomedical and health informatics. <a href="https://bhi.embs.org/2025/">Conference Page</a> </td></tr>
 
   <tr><td><b> April 2025: </b> </td><td>The deadline to submit paper for our research topic "Machine Learning Algorithms and Software Tools for Early Detection and Prognosis of Schizophrenia" in Frontiers in Computational Neuroscience is approaching. Please contribute if this falls within your research area. Details <a href="https://www.frontiersin.org/research-topics/67505/machine-learning-algorithms-and-software-tools-for-early-detection-and-prognosis-of-schizophrenia">here</a> </td></tr>
