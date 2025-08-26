@@ -38,6 +38,8 @@ In the past, I have worked as a research scientist at the [Philps Research](http
   <tr><td><b> Aug 2025: </b> </td><td> Research paper on predicting craving-related emotions in OUD patients accepted to BSN 2025. 
 
   <tr><td><b> Aug 2025: </b> </td><td> Research paper on fMRI preprocessing effects on downstream prediction tasks accepted to BHI 2025.
+
+  <tr><td><b> July 2025: </b> </td><td> Serving as an Area Chair for BHI 2025. 
   
   <tr><td><b> May 2025: </b> </td><td> Research on emotional response to affective haptic cues accepted for the for the World Haptics Conference 2025.
 
