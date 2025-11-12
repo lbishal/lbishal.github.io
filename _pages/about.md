@@ -8,16 +8,18 @@ redirect_from:
 ---
 
 
-I am an Assistant Research Professor at Rice University working within the Digital Health Initiative. I got my PhD in Data Science (ECE) at the Digital Health Labs (Rice University).
-My primary academic interests lie in machine learning and data science applications in (mental) healthcare. In the recent years, I have focused on objective sociability and impulsivity measures for dimensional psychiatry. Healthcare research is an area where the confluences of fundamental research and direct practical applications are aplenty. In the long term, I want to contribute with research to uncover previously unknown fundamental axioms that bound/run us (or our world).
+I am a Research Scientist at Houston Methodist Academic Institute (HMAI) in the Department of Psychiatry and Behavioral Health. I work with a talented team of psychologists and psychiatrists to advance research in mental health (Fun fact - David Rumelhart, the lead author of the 1986 paper on backpropagation to train Neural Networks, was a psychologist). Before moving to HMAI, I was an Assistant Research Professor at Rice University, literally across the street from HMAI, working within the Digital Health Initiative. I got my PhD in Data Science (ECE) at the Digital Health Labs (Rice University).
+My primary academic interests lie in machine learning and data science applications in (mental) healthcare. In recent years, I have focused on objective measures for dimensional psychiatry. Healthcare research is an area where the confluences of fundamental research and direct practical applications are aplenty. In the long term, I want to contribute to research to uncover previously unknown fundamental axioms that bind/run us (or our world).
 
 In the past, I have worked as a research scientist at the [Philps Research](https://www.philips.com/a-w/about/innovation.html) and [IMEC-Holst Center](https://holstcentre.com/). I worked on several projects related to patient monitoring, developing novel measurement techniques and approaches for blood pressure monitoring, computer vision-based patient activity monitoring and diagnosis, wearable systems for early warning indicators of health degradation, novel patient monitoring architectures to support data-driven innovations, the development of cloud computing platform (streaming, storage, and computation) to support the ranges of internal research and advance developments. I also spent an extended summer at [Samsung Research America](https://sra.samsung.com/) as a research intern. There, I worked to develop earbuds-based health applications.
 
 ### Announcements
 
 <div style="background-color: #d1ecf1; color: #0c5460; padding: 10px; border-left: 6px solid #bee5eb; margin: 10px 0;">
-  ℹ️ **Submission Open:** IEEE BHI 2025 call for papers, workshops, and special session is out. Contribute and join the conference in Georgia. <a href="https://bhi.embs.org/2025/">Conference Page</a> <br><br>
   ℹ️ **Accepting Submission:** We are organizing a research topic on "Machine Learning Algorithms and Software Tools for Early Detection and Prognosis of Schizophrenia". We are currently accepting new contributions in this area. <a href="https://www.frontiersin.org/research-topics/67505/machine-learning-algorithms-and-software-tools-for-early-detection-and-prognosis-of-schizophrenia">Research Topic Page.</a> 
+
+  ℹ️ **Best Paper Award:** Super excited to announce that our paper got the best paper award at the IEEE BHI 2025 conference. 
+
 
 </div>
 
@@ -34,6 +36,13 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 <table>
 <col width="150px">
 <col width="750px">
+
+
+  <tr><td><b> Oct 2025: </b> </td><td>  We won the best paper award at the IEEE BHI 2025!!! 
+
+  <tr><td><b> Sep 2025: </b> </td><td> Contributed to an R01 application from the HMAI team here. 
+
+  <tr><td><b> Sep 2025: </b> </td><td> Moved to the Department of Psychiatry and Behavioral Health at Houston Methodist Academic Institute. Excited for this chapter. My first experience working in a (academic) hospital. 
 
   <tr><td><b> Aug 2025: </b> </td><td> Research paper on predicting craving-related emotions in OUD patients accepted to BSN 2025. 
 
