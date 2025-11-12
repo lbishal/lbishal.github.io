@@ -16,7 +16,7 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 ### Announcements
 
 <div style="background-color: #d1ecf1; color: #0c5460; padding: 10px; border-left: 6px solid #bee5eb; margin: 10px 0;">
-  ℹ️ **Accepting Submission:** We are organizing a research topic on "Machine Learning Algorithms and Software Tools for Early Detection and Prognosis of Schizophrenia". We are currently accepting new contributions in this area. <a href="https://www.frontiersin.org/research-topics/67505/machine-learning-algorithms-and-software-tools-for-early-detection-and-prognosis-of-schizophrenia">Research Topic Page.</a> 
+  ℹ️ **Accepting Submission:** We are organizing a research topic on "Machine Learning Algorithms and Software Tools for Early Detection and Prognosis of Schizophrenia". We are currently accepting new contributions in this area. <a href="https://www.frontiersin.org/research-topics/67505/machine-learning-algorithms-and-software-tools-for-early-detection-and-prognosis-of-schizophrenia">Research Topic Page.</a><br> 
 
   ℹ️ **Best Paper Award:** Super excited to announce that our paper got the best paper award at the IEEE BHI 2025 conference. 
 
@@ -38,9 +38,9 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 <col width="750px">
 
 
-  <tr><td><b> Oct 2025: </b> </td><td>  We won the best paper award at the IEEE BHI 2025!!! 
+  <tr><td><b> Nov 2025: </b> </td><td>  We won the best paper award at the IEEE BHI 2025!!! 
 
-  <tr><td><b> Sep 2025: </b> </td><td> Contributed to an R01 application from the HMAI team here. 
+  <tr><td><b> Oct 2025: </b> </td><td> Contributed to an R01 application from the HMAI team here. 
 
   <tr><td><b> Sep 2025: </b> </td><td> Moved to the Department of Psychiatry and Behavioral Health at Houston Methodist Academic Institute. Excited for this chapter. My first experience working in a (academic) hospital. 
 
