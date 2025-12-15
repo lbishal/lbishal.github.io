@@ -8,6 +8,8 @@ redirect_from:
 
 ## Honors, Awards, and Scholarships
 
+ * Best Paper Award, IEEE BHI 2025
+
  * Future Faculty Fellowship, Rice University
 
  * Ken Kennedy Fellowship, Rice University
