@@ -37,6 +37,11 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 <col width="150px">
 <col width="750px">
 
+  <tr><td><b> Dec 2025: </b> </td><td>  Wearable for sleep monitoring in pregnancy paper is accepted for publication at iScience. 
+
+  <tr><td><b> Dec 2025: </b> </td><td>  Our findings of sexual dimorphism of COMT polymorphism in personality pathology is accepted for publication at Brain Sciences. 
+
+  <tr><td><b> Dec 2025: </b> </td><td>  Emptiness modeling based on standard clinical constructs accepted for presentation at SPA 2026. 
 
   <tr><td><b> Nov 2025: </b> </td><td>  We won the best paper award at the IEEE BHI 2025!!! 
 
