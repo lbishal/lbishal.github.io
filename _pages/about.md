@@ -37,9 +37,13 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 <col width="150px">
 <col width="750px">
 
-  <tr><td><b> Dec 2025: </b> </td><td>  Wearable for sleep monitoring in pregnancy paper is accepted for publication at iScience. 
 
-  <tr><td><b> Dec 2025: </b> </td><td>  Our findings of sexual dimorphism of COMT polymorphism in personality pathology is accepted for publication at Brain Sciences. 
+  <tr><td><b> Jan 2026: </b> </td><td>  Our paper investigating biobehavioral markers of burnout in nursing population is accepted for publication at Nursing Reports <a href="https://www.mdpi.com/2039-4403/16/1/36">Paper</a> </td></tr>
+
+
+  <tr><td><b> Dec 2025: </b> </td><td>  Wearable for sleep monitoring in pregnancy paper is accepted for publication at iScience. <a href="https://www.cell.com/iscience/fulltext/S2589-0042(25)02742-7">Paper</a> </td></tr>
+
+  <tr><td><b> Dec 2025: </b> </td><td>  Our findings of sexual dimorphism of COMT polymorphism in personality pathology is accepted for publication at Brain Sciences. <a href="https://www.mdpi.com/2076-3425/15/12/1337">Paper</a> </td></tr>
 
   <tr><td><b> Dec 2025: </b> </td><td>  Emptiness modeling based on standard clinical constructs accepted for presentation at SPA 2026. 
 
