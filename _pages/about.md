@@ -13,6 +13,8 @@ My primary academic interests lie in machine learning and data science applicati
 
 In the past, I have worked as a research scientist at the [Philps Research](https://www.philips.com/a-w/about/innovation.html) and [IMEC-Holst Center](https://holstcentre.com/). I worked on several projects related to patient monitoring, developing novel measurement techniques and approaches for blood pressure monitoring, computer vision-based patient activity monitoring and diagnosis, wearable systems for early warning indicators of health degradation, novel patient monitoring architectures to support data-driven innovations, the development of cloud computing platform (streaming, storage, and computation) to support the ranges of internal research and advance developments. I also spent an extended summer at [Samsung Research America](https://sra.samsung.com/) as a research intern. There, I worked to develop earbuds-based health applications.
 
+<!-- 
+
 ### Announcements
 
 <div style="background-color: #d1ecf1; color: #0c5460; padding: 10px; border-left: 6px solid #bee5eb; margin: 10px 0;">
@@ -23,6 +25,7 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 
 </div>
 
+-->
 
 ### Updates
 
@@ -36,6 +39,18 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 <table>
 <col width="150px">
 <col width="750px">
+
+
+
+  <tr><td><b> June 2026: </b> </td><td>  Our paper evaluating the real-world efficacy of SC Ketamine Therapy across multiple mental health illnesses is accepted for publication at JMIR <a href="10.2196/92647">Paper</a> </td></tr>
+
+
+  <tr><td><b> May 2026: </b> </td><td>  In this climate, a scored R01 submission seems like a small win. </td></tr>  
+
+  <tr><td><b> April 2026: </b> </td><td> Serving as an Area Chair for the BHI 2026 Conference. Please consider submitting your work. <a href="https://bhi.embs.org/2026/">BHI 2026</a>  </td></tr>
+
+  
+  <tr><td><b> April 2026: </b> </td><td>  Presented an invited talk on "Next Frontier for Wearables with Mental Health Focus" at the UT Health 2026 Behavioral Health in the Age of AI Conference </td></tr>
 
 
   <tr><td><b> Jan 2026: </b> </td><td>  Our paper investigating biobehavioral markers of burnout in nursing population is accepted for publication at Nursing Reports <a href="https://www.mdpi.com/2039-4403/16/1/36">Paper</a> </td></tr>
