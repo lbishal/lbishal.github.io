@@ -42,7 +42,7 @@ In the past, I have worked as a research scientist at the [Philps Research](http
 
 
 
-  <tr><td><b> June 2026: </b> </td><td>  Our paper evaluating the real-world efficacy of SC Ketamine Therapy across multiple mental health illnesses is accepted for publication at JMIR <a href="10.2196/92647">Paper</a> </td></tr>
+  <tr><td><b> June 2026: </b> </td><td>  Our paper evaluating the real-world efficacy of SC Ketamine Therapy across multiple mental health illnesses is accepted for publication at JMIR <a href="https://doi.org/10.2196/92647">Paper</a> </td></tr>
 
 
   <tr><td><b> May 2026: </b> </td><td>  In this climate, a scored R01 submission seems like a small win. </td></tr>  
